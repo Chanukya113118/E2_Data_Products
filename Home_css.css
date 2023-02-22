@@ -1,0 +1,94 @@
+#header{
+  background-color: #FAF7F0;
+  font-style: sans-serif;
+  color: #CD5888;
+}
+#header a{
+  color: #CD5888;
+}
+#hd{
+  padding-top: 50%;
+  padding-left: 10px;
+  color: #FB2576;
+}
+#About{
+  padding-top: 80px;
+  text-align: center;
+  background-color: #CDFCF6;
+  color: #5D3891;
+}
+#About h2{
+  padding-bottom: 25px;
+  font-family: sans-serif;
+  color: #F94A29;
+}
+#About img{
+ width: 250px;
+ height: 250px;
+ margin-left: 25px;
+}
+#Products h1{
+  padding-bottom: 25px;
+  color: #913175;
+}
+#Products{
+  text-align: center;
+  padding-top:45px;
+  padding-bottom: 20px;
+  background-color: #F8EDE3;
+  color: #CD5888;
+}
+#Products .card-text{
+  color: #5D3891;
+}
+#Products img{
+  width: 200px;
+  height: 200px;
+}
+#Process h1{
+  padding-bottom: 25px;
+  color: #A75D5D;
+}
+#Process{
+  text-align: center;
+  padding-top: 45px;
+  padding-bottom: 20px;
+}
+#Process .card{
+    background-color: #F9F5E7;
+}
+#Process img{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+#Contact{
+  background-color: #DFD3C3;
+  padding-top: 80px;
+  text-align: center;
+  padding-bottom: 80px;
+}
+#Contact img{
+  width: 40px;
+  height: 40px;
+}
+#Contact a{
+  padding-left: 25px;
+}
+#Services h1{
+  padding-bottom: 20px;
+}
+#Services{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+  background-color: #EEE9DA;
+  color: #CD5888;
+}
+#Services img{
+  width: 200px;
+  height: 200px;
+}
+#Services .card-text{
+  color: #13005A;
+}
